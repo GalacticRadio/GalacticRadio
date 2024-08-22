@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @GalacticRadio
-- 👀 I’m interested in games
-- 🌱 I’m currently learning CS
-- 💞️ I’m looking to collaborate on N/A
-- 📫 How to reach me N/A
+Hi, I’m Anna!
+
+I’m currently learning Software Development. Thank you for checking out my profile!
 
 <!---
 GalacticRadio/GalacticRadio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
